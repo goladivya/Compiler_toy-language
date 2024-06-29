@@ -1,0 +1,36 @@
+Datatype : int
+Varibale : a 
+Value : 20 
+Assignment : =
+
+Datatype : int
+Varibale : b 
+Value : 10 
+Assignment : =
+
+Datatype : int
+Varibale : c 
+Value : 15 
+Assignment : =
+
+Datatype : int
+Varibale : d 
+Value : 5 
+Assignment : =
+
+Datatype : int
+Varibale : e 
+
+Datatype : int
+Varibale : main 
+Varibale : e 
+Varibale : a 
+Varibale : b 
+Varibale : c 
+Operator : * 
+Varibale : d 
+Operator : / 
+Operator : + 
+Function Defined above
+
+
